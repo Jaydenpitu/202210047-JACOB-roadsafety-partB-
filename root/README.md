@@ -5,9 +5,9 @@
 **Student Name:** Jamaicah JACOB
 **Student ID:** 202210047
 **Project:** Road Safety – Part B Predictive Modelling
-**Part A Group:** [Enter Part A group]
-**Assigned Dataset Version:** [Enter dataset version]
-**Assigned Member Number:** [Enter member number]
+**Part A Group:** 3
+**Assigned Dataset Version:** Sample3_ZJ
+**Assigned Member Number:** 3
 
 ## 1. Project Overview
 
